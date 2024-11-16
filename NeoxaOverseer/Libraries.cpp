@@ -1,0 +1,10 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+#include <vector>
+#include <regex>
+#include <conio.h>
+#include <cctype>
+#include <windows.h>
+#include <curl/curl.h>
+#include <nlohmann/json.hpp>
